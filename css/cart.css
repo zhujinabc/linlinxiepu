@@ -1,0 +1,38 @@
+.ll_content3{
+    padding-bottom: 80px;
+    width: 100%;
+    height: 100%;
+}
+.ll_content3 .mui-scroll-wrapper{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.mui-table-view  ul{
+    margin: 0;
+    padding: 0;
+}
+.cart_order{
+    height: 30px;
+    line-height: 30px;
+    border-top: 1px solid #ccc;
+    position: fixed;
+    left: 0;
+    bottom: 50px;
+    background: #fff;
+    width: 100%;
+    z-index: 999;
+    padding-left: 20px;
+    font-size: 14px;
+    color: #ff3300;
+    font-weight: 600;
+}
+.cart_order a{
+    width: 100px;
+    text-align: center;
+    background: #ff3300;
+    display: block;
+    float: right;
+    color: #fff;
+}

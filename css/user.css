@@ -1,0 +1,14 @@
+.ll_content6 {
+    padding-top: 45px;
+    padding-bottom: 50px;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.form_box{
+    padding: 10px;
+}
+.btn_outLogin{
+    width: 100%;
+    margin: 20px 0;
+}

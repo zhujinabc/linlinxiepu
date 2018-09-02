@@ -1,0 +1,35 @@
+.ll_content5 {
+    padding-top: 45px;
+    padding-bottom: 50px;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.form_box{
+    padding: 10px;
+}
+.btn_register {
+    width: 100%;
+    margin: 20px 0;
+}
+[type="text"][name="code"]{
+    width: 60%;
+    float: left;
+}
+.mui-input-row .btn_getCode{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    height: 40px;
+}
+.ll_text {
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+}
+.ll_text [type=checkbox]{
+    vertical-align: middle;
+}
+.ll_text a{
+    float: right;
+}

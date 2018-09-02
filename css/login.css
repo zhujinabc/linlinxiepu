@@ -1,0 +1,22 @@
+.ll_content4 {
+    padding-top: 45px;
+    padding-bottom: 50px;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.form_box{
+    padding: 10px;
+}
+.btn_login, .btn_register {
+    width: 100%;
+    margin: 20px 0;
+}
+.ll_text {
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+}
+.ll_text a{
+    float: right;
+}
